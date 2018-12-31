@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "graphql": "graphql-75771",
+    "default": "graphql-75771"
+  }
+}
